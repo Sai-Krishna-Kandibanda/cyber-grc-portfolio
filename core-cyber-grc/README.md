@@ -1,4 +1,4 @@
-Core Cyber Security GRC
+# Core Cyber Security GRC
 
 This section contains foundational cyber security GRC artefacts that apply to most organisations.
 
