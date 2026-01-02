@@ -1,6 +1,6 @@
 # Cyber Security Risk Register (Sample)
 
-**Organisation:** Northbridge Health Services (fictional)  
+**Organisation:** LDN Health Services (fictional)  
 **Sector:** Healthcare  
 **Purpose:** Learning and demonstration of cyber security GRC principles
 
